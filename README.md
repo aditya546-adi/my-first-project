@@ -1,14 +1,17 @@
-- My First Project 
+# My First Project 🚀
 
 This is my first GitHub project.
 
-- Features
-  . Basic HTML page
-  . First Git integration
-  . Hosted on GitHub
+## 📌 Features
+- Basic HTML page
+- First Git integration
+- Hosted on GitHub
 
-- Tech Used
- . HTML
+## 🛠 Tech Used
+- HTML
 
-- Preview
+## 📷 Preview
 Simple demo page created as part of learning GitHub.
+
+---
+Learning in progress...
